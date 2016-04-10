@@ -7,6 +7,9 @@ It can be used with 3D projects as well.
 
 * Run the demo scene to try it out.
 
+Preview: 
+* http://imgur.com/HPIUE7l
+
 Built using Unity3D 5.1.4f1
 
 ## LICENSE : MIT
